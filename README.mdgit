@@ -1,0 +1,1 @@
+"# Hotel-Booking"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/as6447359-create/Hotel-Booking.gitgit push -u origin main
